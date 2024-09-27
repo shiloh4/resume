@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.19)  16 SEP 2024 11:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.19)  26 SEP 2024 21:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -363,23 +363,17 @@ L3 programming layer <2024-05-27>
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-Package rerunfilecheck Warning: File `resume.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `resume.out':
-(rerunfilecheck)             Before: FA61757D5441DDF9F931147FD8B83ABB;577
-(rerunfilecheck)             After:  150B8654115C4A229461071F69A1BD2D;577.
+Package rerunfilecheck Info: File `resume.out' has not changed.
+(rerunfilecheck)             Checksum: 150B8654115C4A229461071F69A1BD2D;577.
  ) 
 Here is how much of TeX's memory you used:
  10717 strings out of 473584
  167172 string characters out of 5732363
- 1960908 words of memory out of 5000000
+ 1961908 words of memory out of 5000000
  33487 multiletter control sequences out of 15000+600000
  563661 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,79p,317b,456s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,79p,301b,456s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/tex
 live/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2024
 /texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><c:/texlive/2024/texmf-d
@@ -387,7 +381,7 @@ ist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2024/texmf-dist/fonts/
 type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/pub
 lic/amsfonts/cm/cmsy6.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmti10.pfb>
-Output written on resume.pdf (1 page, 106998 bytes).
+Output written on resume.pdf (1 page, 107604 bytes).
 PDF statistics:
  78 PDF objects out of 1000 (max. 8388607)
  60 compressed objects within 1 object stream
