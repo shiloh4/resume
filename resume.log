@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.19)  26 SEP 2024 21:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.19)  3 OCT 2024 22:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -364,7 +364,7 @@ L3 programming layer <2024-05-27>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `resume.out' has not changed.
-(rerunfilecheck)             Checksum: 150B8654115C4A229461071F69A1BD2D;577.
+(rerunfilecheck)             Checksum: 27ECD46A22B3E8AB2955A56D1CEA8186;577.
  ) 
 Here is how much of TeX's memory you used:
  10717 strings out of 473584
@@ -381,7 +381,7 @@ ist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2024/texmf-dist/fonts/
 type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/pub
 lic/amsfonts/cm/cmsy6.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmti10.pfb>
-Output written on resume.pdf (1 page, 107604 bytes).
+Output written on resume.pdf (1 page, 107872 bytes).
 PDF statistics:
  78 PDF objects out of 1000 (max. 8388607)
  60 compressed objects within 1 object stream
