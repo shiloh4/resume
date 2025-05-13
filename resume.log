@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.19)  12 MAY 2025 02:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.19)  13 MAY 2025 01:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -364,16 +364,16 @@ L3 programming layer <2024-05-27>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `resume.out' has not changed.
-(rerunfilecheck)             Checksum: 94A753537516B99D4C1F64BC42EDD50E;387.
+(rerunfilecheck)             Checksum: DC7C41F96B644A0EA22BB70788525766;357.
  ) 
 Here is how much of TeX's memory you used:
  10713 strings out of 473584
  167132 string characters out of 5732363
- 1961908 words of memory out of 5000000
+ 1963908 words of memory out of 5000000
  33485 multiletter control sequences out of 15000+600000
  563661 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,79p,355b,456s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,79p,358b,456s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/tex
 live/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2024
 /texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><c:/texlive/2024/texmf-d
@@ -381,10 +381,10 @@ ist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2024/texmf-dist/fonts/
 type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/pub
 lic/amsfonts/cm/cmsy6.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmti10.pfb>
-Output written on resume.pdf (1 page, 105238 bytes).
+Output written on resume.pdf (1 page, 106801 bytes).
 PDF statistics:
- 70 PDF objects out of 1000 (max. 8388607)
- 52 compressed objects within 1 object stream
+ 71 PDF objects out of 1000 (max. 8388607)
+ 53 compressed objects within 1 object stream
  6 named destinations out of 1000 (max. 500000)
  33 words of extra memory for PDF output out of 10000 (max. 10000000)
 
