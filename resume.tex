@@ -125,7 +125,7 @@
   \resumeSubHeadingListStart
     \resumeSubheading
       {Georgia Institute of Technology}{Atlanta, GA}
-      {BS Computer Science - CGPA: 3.84}{May 2022 - May 2026 (anticipated)}
+      {BS Computer Science - GPA: 3.84}{May 2022 - May 2026 (anticipated)}
   \resumeSubHeadingListEnd
 
   %-----------Experience-----------
@@ -136,16 +136,16 @@
     {Georgia Institute of Technology $|$ College of Computing}{Atlanta, GA}
     {Teaching Assistant}{May 2025 - Present}
     \resumeItemListStart
-      \resumeItem{Assisted in teaching CS 1331: Introduction to Object-Oriented Programming. Responsibilities include grading assignments/exams, holding office hours, and providing academic support to 161 students across 3 sections.}
+      \resumeItem{Supported over 300 students across 2 sections in CS 1331 by grading and debugging help students' understanding of Java, OOP fundamentals, and object-oriented design, providing mentorship through office hours.}
     \resumeItemListEnd
     
   \resumeSubheading
     {Keysight Technologies $|$ Eggplant}{Penang, MY}
     {QA Engineer Intern}{May 2024 - Aug. 2024}
     \resumeItemListStart
-      \resumeItem{Authored and debugged automated model-based and script-based test scripts in Eggplant Functional. Discovered 4 breaking bugs and led development of automated MBT tests for the respective test cases. Wrote approximately 300 lines of code in SenseTalk.}
-      \resumeItem{Spearheaded the development and implementation of front-end, back-end, and other test procedures (\textbf{Cypress tests}, API/BDD tests, MBT tests) for new systems and application features under development.}
-      \resumeItem{Collaborated in defining the minimum viable product for Eggplant DAI version 7.5.0-0.}
+      \resumeItem{Expanded Eggplant DAI regression coverage by building model- and script-based SenseTalk automation (~300 LOC), uncovering 4 release-blocking bugs.}
+      \resumeItem{Improved feature test readiness by implementing Cypress UI, API, and BDD tests across frontend/backend pipelines, reducing pre-release QA gaps.}
+      \resumeItem{Accelerated v7.5.0-0 release planning by defining MVP test scope and acceptance criteria with PM, QA, and engineering stakeholders.}
     \resumeItemListEnd
 
 
@@ -161,10 +161,10 @@
     {}{}
     \resumeItemListStart
     \vspace{-5mm}
-      \resumeItem{Architected a multi-app platform (public site + CMS) with shared Express API; created responsive, fast UI in React (Vite, Tailwind).}
-      \resumeItem{Developed editor tooling in TanStack and a typed backend in Express + MongoDB to create, edit, and publish articles.}
-      \resumeItem{Built editorial workflow tooling: draft → in-review → published states, featured/sticky toggles, and admin-only publish controls across shared API + CMS. Implemented secure backend foundations: JWT auth (Google OAuth), rate‑limiting, Helmet/CORS hardening, and Zod validation for API inputs.}
-      \resumeItem{Delivered community features: threaded comments with moderation and reactions, plus searchable/paginated article feeds.}
+      \resumeItem{Launched a production publishing platform (public site + CMS) by building React clients on a shared Express REST API, enabling real-time editorial workflows with React and a typed Express/MongoDB backend.}
+      \resumeItem{Increased publishing reliability by implementing workflow state transitions (draft → review → published), admin-only publish controls, and featured/sticky toggles, backed by JWT auth (Google OAuth) and API validation.}
+      \resumeItem{Improved platform security and stability by adding rate limiting, Helmet/CORS hardening, and Zod request validation to protect core endpoints from abuse and malformed input.}
+      % \resumeItem{Expanded community engagement features by building threaded comments with moderation + reactions and implementing searchable, paginated article feeds.}
     \resumeItemListEnd
     
     \resumeSubheading
@@ -172,9 +172,10 @@
     {}{}
     \resumeItemListStart
     \vspace{-5mm}
-    \resumeItem{Led frontend development for Gamefest, an esports tournament platform with \textbf{246+ competitors across Atlanta}, using \textbf{Vite} for fast builds and \textbf{Tailwind CSS} for responsive UI styling. Deployed frontend via Netlify and backend via Render, with MongoDB as the primary database.}
-      \resumeItem{Built a weighted raffle system, dynamically selecting/displaying 1st-3rd place winners on a leaderboard.}
-      \resumeItem{Integrated with Cloudflare to monitor analytics; served \textbf{2.13k unique visitors} and 95.3k total requests over 30 days, with 71.43\% cache hit rate. Worked in 1-week Agile sprints within a 5-person team; enforced Git workflow, ESLint, and Prettier for code consistency.}
+      \resumeItem{Shipped a tournament platform for 246+ competitors by leading React/Tailwind frontend delivery with Netlify deployment and Render/MongoDB backend integration.}
+      \resumeItem{Increased event interactivity by building a weighted raffle system that dynamically selected and displayed 1st-3rd place winners on a live leaderboard.}
+      \resumeItem{Improved traffic visibility and performance tuning by integrating Cloudflare analytics and serving 2.13k unique visitors and 95.3k total requests in 30 days with a 71.43\% cache hit rate.}
+      \resumeItem{Increased team delivery velocity in a 5-engineer team,running weekly Agile sprints and enforcing Git + ESLint standards.}
     \resumeItemListEnd    
 
     \resumeSubheading
@@ -182,18 +183,17 @@
     {}{}
     \resumeItemListStart
     \vspace{-5mm}
-      \resumeItem{Architected a robust \textbf{Gurobi optimization model} hosted on Azure to simulate and optimize real-life power grid flow; engineered \textbf{cache fallback and lookahead mechanisms} to ensure real-time continuity between clients and our Azure-hosted server in case of network issues (e.g., packet loss, latency).}
-      \resumeItem{Engineered a fullstack application using \textbf{Vite} and \textbf{ExpressJS} to host a build of the game and provide a platform for developers to upload and refer to documentation in an organized manner. Used \textbf{MongoDB} for data storage and retrieval and \textbf{Clerk} for safe and secure authentication.}
+      \resumeItem{Improved gameplay continuity under unstable networks by implementing cache fallback + lookahead logic for packet loss/latency resilience between clients and an Azure-hosted server.}
+      \resumeItem{Built a dev portal with Vite, Express, MongoDB, and Clerk auth, enabling structured documentation upload and retrieval.}
     \resumeItemListEnd
     
     \resumeSubheading
-    {AI ATL 2024: AgentArena}{\textit{Frontend Developer}}
+    {AI ATL 2024: AgentArena}{\textit{Frontend Engineer}}
     {}{}
     \resumeItemListStart
     \vspace{-5mm}
-      \resumeItem{Developed a web-based LLM simulation platform using React for the frontend and Flask for the backend, enabling users to simulate and analyze agent interactions in multi-agent scenarios (Prisonners' Dilemma). Utilized Fetch API and React Hooks to dynamically fetch and update game state data in real-time.}
-      \resumeItem{Leveraged Plotly.js for interactive data visualization, displaying agent performance metrics such as \textbf{niceness, forgiveness, retaliatory, troublemaking, and emulative behavior} over multiple simulation rounds.}
-      \resumeItem{Analyzed behavioural patterns/tendencies of different LLM models (Claude, GPT-4, Gemini) when pitted against different agents/strategies (random, tit-for-tat, etc.). \href{https://drive.google.com/file/d/1SQzdfGt7ht6lkvVI1J9FIJJ_4yjdPMzK/view?usp=sharing}{\textbf{\underline{Project Report}}}}
+      \resumeItem{Built real-time LLM simulation interface by integrating a React frontend with a Flask backend to run multi-agent Prisoner's Dilemma experiments.}
+      \resumeItem{Evaluated strategy tendencies across Claude, GPT-4, and Gemini by benchmarking against strategic (random, tit-for-tat, etc.) agents. \href{https://drive.google.com/file/d/1SQzdfGt7ht6lkvVI1J9FIJJ_4yjdPMzK/view?usp=sharing}{\textbf{\underline{Project Report}}}}
     \resumeItemListEnd
 
     % \resumeSubheading
@@ -270,21 +270,31 @@
 %    }}
 % \end{itemize}
 
+%-----------Technical Skills-----------
+\section{Technical Skills}
+\begin{itemize}[leftmargin=0.15in, label={}]
+  \small{\item{
+    \textbf{Languages:} JavaScript (ES6+), TypeScript, Python, Java, SQL \\
+    \textbf{Frontend (client-side):} React, HTML5, CSS3, Tailwind CSS, Vite, Responsive Design \\
+    \textbf{Backend (server-side) / Databases:} Node.js, Express.js, Flask, Django, REST APIs, JWT, OAuth, MongoDB, PostgreSQL, MySQL \\
+    \textbf{Testing / DevOps / Cloud / AI:} Cypress, API Testing, BDD, Git, CI/CD, GitHub Actions, Netlify, Render, Azure, Cloudflare, LLM Evaluation, Multi-Agent Simulation, Q-Learning, Reinforcement Learning \\
+  }}
+\end{itemize}
 
-%-----------Leadership-----------
-\section{Leadership}
-    \resumeSubHeadingListStart
-      \resumeSubheading
-      {Georgia Tech Malaysia Student Association}{\textit{Jan. 2023 - May 2024}}
-      {Head of Outreach}{}
-      \resumeItemListStart
-      % \vspace{-4mm}
-        \resumeItem{Designed impactful social media content and graphic designs using Affinity Photo and Designer, boosting Instagram engagement by 6\%.}
-      \resumeItemListEnd
-    \resumeSubHeadingListEnd
+
+%-----------Extracurriculars-----------
+\section{Extracurriculars}
+    % \resumeSubHeadingListStart
+    %   \resumeSubheading
+    %   {Georgia Tech Malaysia Student Association}{\textit{Jan. 2023 - May 2024}}
+    %   {Head of Outreach}{}
+    %   \resumeItemListStart
+    %   % \vspace{-4mm}
+    %     \resumeItem{Increased Instagram engagement by 6\% by designing outreach graphics and social media content using Affinity Photo and Affinity Designer.}
+    %   \resumeItemListEnd
+    % \resumeSubHeadingListEnd
 
     \resumeSubHeadingListStart
-    \vspace{-10pt}
       \resumeSubheading
       {Extracurricular Achievements:}{}
       {}{}
