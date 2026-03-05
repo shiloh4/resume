@@ -162,8 +162,8 @@
     \resumeItemListStart
     \vspace{-5mm}
       \resumeItem{Architected a multi-app platform (public site + CMS) with shared Express API; created responsive, fast UI in React (Vite, Tailwind).}
-      \resumeItem{Developed editor tooling in TanStack and a typed backend in Express + MongoDB to create, edit, and publish articles.}
-      \resumeItem{Built editorial workflow tooling: draft → in-review → published states, featured/sticky toggles, and admin-only publish controls across shared API + CMS. Implemented secure backend foundations: JWT auth (Google OAuth), rate‑limiting, Helmet/CORS hardening, and Zod validation for API inputs.}
+      \resumeItem{Implemented a cache layer using Cloudflare's edge using an invalidate-on-article-mutation + long TTL strategy. Increased cached request rate by over 13\% and raised the caching bandwidth rate to 93\% a day after deploying changes. }
+      \resumeItem{Built editorial workflow tooling: draft → in-review → published states, featured/sticky toggles, and admin-only publish controls across shared API + CMS. Implemented secure backend foundations: JWT auth (Google OAuth), rate-limiting, Helmet/CORS hardening, and Zod validation for API inputs.}
       \resumeItem{Delivered community features: threaded comments with moderation and reactions, plus searchable/paginated article feeds.}
     \resumeItemListEnd
     
